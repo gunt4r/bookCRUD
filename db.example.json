@@ -1,0 +1,40 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt & David Thomas",
+        "year": 1999,
+        "description": "A guide for software developers covering best practices and development philosophy."
+      },
+      {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "description": "A handbook of agile software craftsmanship and coding practices."
+      },
+      {
+        "id": 3,
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": 2015,
+        "description": "In-depth exploration of JavaScript concepts and mechanics."
+      },
+      {
+        "id": 4,
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "year": 1999,
+        "description": "Techniques and principles for improving the design of existing code."
+      },
+      {
+        "id": 5,
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "year": 2008,
+        "description": "A focused look at the more elegant parts of JavaScript."
+      }
+    ]
+  }
+  
